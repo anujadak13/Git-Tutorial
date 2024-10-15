@@ -1,1 +1,2 @@
-git file 2
+git file 2.
+adding content in file2 for changing in commit.
