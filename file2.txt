@@ -1,7 +1,11 @@
 git file 2.
 adding content in file2 for changing in commit.
+<<<<<<< HEAD
 adding content in file2 for changing in commit.
 adding content in file2 for changing in commit.
 adding content in file2 for changing in commit.adding content in file2 for changing in commit.
 adding content in file2 for changing in commit.
 hey there-16
+=======
+bug fix file adding content.
+>>>>>>> bug-fix
