@@ -1,1 +1,2 @@
 Git file one.
+adding new content to file1 for rebasing with new-branch.
