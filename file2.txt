@@ -1,2 +1,3 @@
 git file 2.
 adding content in file2 for changing in commit.
+bug fix file adding content.
